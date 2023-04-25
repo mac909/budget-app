@@ -133,8 +133,8 @@ const Dashboard = () => {
 						) : (
 							<div className="grid-sm">
 								<p>
-									Personl budgeting is the secret to financial
-									freedom
+									Personal budgeting is the secret to
+									financial freedom
 								</p>
 								<p>Create a budget to get started!</p>
 								<AddBudgetForm />
